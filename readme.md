@@ -9,7 +9,7 @@ This project is about offering simple and useful tools for developers who need s
 The project built with Laravel php framework.
 
 ##DEMO
-Will post the screencast demo link here once i finish it.
+You can watch the DEMO online from here <http://www.screencast.com/t/srsfVUuxFoZ>
 
 
 ##External Libraries used
