@@ -17,14 +17,15 @@
 
 
 //Commented these because after i uploaded the app to live server, it showed me a message says that homeController class not found. So i'm trying to execute the code from routes file
+/*
 Route::get('/', 'homeController@index');
 Route::get('/lorem-ipsum', 'homeController@lorem');
 Route::post('/lorem-ipsum', 'homeController@lorem');
 Route::get('/user-generator', 'homeController@userGenerator');
 Route::post('/user-generator', 'homeController@userGenerator');
+*/
 
 
-/*
 Route::get('/',function(){
 
 	return View::make('pages.indexPage');
@@ -114,7 +115,7 @@ Route::post('/user-generator', function(){
 });
 
 
-*/
+
 
 
 
