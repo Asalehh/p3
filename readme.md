@@ -1,4 +1,4 @@
-#Project 2
+#Project 3
 This project created according to the guidelines mentioned here <http://dwa15.com/Projects/P3>
 
 ##Live Project
